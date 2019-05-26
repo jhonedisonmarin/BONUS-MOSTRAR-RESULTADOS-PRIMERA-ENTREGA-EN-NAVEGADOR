@@ -1,9 +1,10 @@
 {
-  "name": "primera-entrega",
-  "version": "1.0.0",
+  "name": "bonus-mostar-en-navegador",
+  "version": "1.0.1",
   "description": "Primera entrega curso nodejs",
   "main": "principal.js",
   "dependencies": {
+    "express": "^4.17.1",
     "yargs": "^13.2.2"
   },
   "devDependencies": {},
@@ -11,5 +12,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jhon jems10@hotmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonedisonmarin/BONUS-MOSTRAR-RESULTADOS-PRIMERA-ENTREGA-EN-NAVEGADOR.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhonedisonmarin/BONUS-MOSTRAR-RESULTADOS-PRIMERA-ENTREGA-EN-NAVEGADOR/issues"
+  },
+  "homepage": "https://github.com/jhonedisonmarin/BONUS-MOSTRAR-RESULTADOS-PRIMERA-ENTREGA-EN-NAVEGADOR#readme"
 }
